@@ -1,4 +1,3 @@
-
 # Landing Page de Carlos Eduardo Cupul Hau
 
 Este es el repositorio del código fuente de mi landing page personal, diseñada para mostrar mi perfil profesional como desarrollador de software. La página está construida con HTML y CSS, y presenta un diseño moderno y responsivo que se adapta a cualquier dispositivo.
